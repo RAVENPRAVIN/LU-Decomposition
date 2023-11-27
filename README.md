@@ -46,7 +46,9 @@ print(solution)
 ```
 
 ## Output:
-![lu decomposition]()
+![lu decomposition](lu%201.png)
+![lu decomposition](lu%202.png)
+
 
 
 ## Result:
